@@ -1,12 +1,115 @@
-[
-	{
-		"date": 1625589364, 
-		"from": "GitHub", 
-		"subject": "[GitHub] Please review this sign in", 
-		"content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
-		"preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.", 
-		"isRead": false, 
-		"isDeleted": false
-	}
-]
-	
+{
+    "emails": [
+        {
+            "id": 1,
+            "mail": [
+                {
+                    "id": 1,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 2,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 3,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 4,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 5,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "mail": [
+                {
+                    "id": 1,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 2,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 3,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 4,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                },
+                {
+                    "id": 5,
+                    "date": 1625589364,
+                    "from": "GitHub",
+                    "subject": "[GitHub] Please review this sign in",
+                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nFor more information, see \"https://docs.github.com/articles/keeping-your-account-and-data-secure/\" in the GitHub Help.\n\nTo see this and other security events for your account, visit https://github.com/settings/security-log\n\nIf you run into problems, please contact support by visiting https://github.com/contact\n\nThanks,\n\nThe GitHub Team",
+                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "isRead": false,
+                    "isDeleted": false
+                }
+            ]
+        }
+    ]
+}
+
