@@ -15,17 +15,17 @@
                 {
                     "id": 2,
                     "date": 1625587364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Планета Кіно",
+                    "subject": "Хочеш пройти смертельний лабіринт?",
+                    "preview": "Вас вітає смертельний лабіринт! Ми тут розгадуємо загадки або помираємо. Отже, як пов’язані між собою космічний джем",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 3,
                     "date": 1615589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
+                    "from": "ROZETKA",
+                    "subject": "Товар, який купують і радять найчастіше:  Автохолодильник Ranger Cool 30 л (RA 8857)",
                     "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
                     "isRead": true,
                     "isDeleted": false
@@ -33,27 +33,27 @@
                 {
                     "id": 4,
                     "date": 1614589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Victoria",
+                    "subject": "Please add me to your LinkedIn network",
+                    "preview": "Вітаю, %Username%. Я представляю американську продуктову компанію %Company%.",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 5,
                     "date": 1613589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "The Postman Team",
+                    "subject": "Reminder: Share Your Thoughts on APIs. You Could Win a PS5.",
+                    "preview": "Thousands of your colleagues across the industry have already responded to ",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 6,
                     "date": 1624589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Pavlo",
+                    "subject": "Please add me to your LinkedIn network",
+                    "preview": "Pavlo >> Вітаю, %Username%. Я представляю американську продуктову компанію %Company%.",
                     "isRead": false,
                     "isDeleted": false
                 },
@@ -69,27 +69,27 @@
                 {
                     "id": 8,
                     "date": 1625500000,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Product Hunt Daily",
+                    "subject": "Points for PlayStations",
+                    "subject": "We don't know about you, but saving money doesn't really come to mind when thinking about gaming. These recent launches can set you up nicely",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 9,
                     "date": 1625589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Кіномережа ОСКАР",
+                    "subject": "Спекотні прем'єри, які неможливо пропустити ⭐️‌",
+                    "preview": "Через витівки штучного інтелекту Леброн і його маленький син Дом потрапляють у пастку цифрового простору.",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 10,
                     "date": 1625589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "from": "Yakaboo.ua",
+                    "subject": "Книжковий четвер: дзен-книжки про спокій, знижки на хіти літа та що читає Дубілет",
+                    "preview": "Ловіть добірку новинок і класичних романів, різних за жанром та сюжетом. І всіх їх об'єднує одне",
                     "isRead": false,
                     "isDeleted": false
                 }
@@ -100,20 +100,19 @@
             "mail": [
                 {
                     "id": 11,
-                    "date": 1625589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "date": 1525589364,
+                    "from": "adidas",
+                    "subject": "Get 20% off as an early birthday treat!",
+                    "preview": "We're jumping the gun and wishing you an early happy birthday!",
                     "isRead": false,
                     "isDeleted": false
                 },
                 {
                     "id": 12,
-                    "date": 1625589364,
-                    "from": "GitHub",
-                    "subject": "[GitHub] Please review this sign in",
-                    "content": "Hey W1zzy!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in. You can review this sign in attempt by visiting https://github.com/.\n\nIf you recently signed in to your account, you do not need to take any further action.\n\nIf you did not sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.\n\nThanks,\n\nThe GitHub Team",
-                    "preview": "Hey Username!\n\nYour GitHub account was successfully signed in to but we did not recognize the location of the sign in.",
+                    "date": 1525589364,
+                    "from": "Product Hunt Daily",
+                    "subject": "F u taboos",
+                    "preview": "Most of us have struggled with our hormones, in some form or another. Yet keeping them in check has become a taboo topic.",
                     "isRead": false,
                     "isDeleted": false
                 }
